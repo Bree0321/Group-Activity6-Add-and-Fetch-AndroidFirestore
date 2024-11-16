@@ -1,7 +1,7 @@
 SIMPLE ADD AND FETCH IN ANDROID USING FIRESTORE
 ===============================================
 
-[https://github.com/jpablico20/AndroidFirestore.git](https://github.com/jpablico20/AndroidFirestore.git)
+[https://github.com/Bree0321/Group-Activity6-Add-and-Fetch-AndroidFirestore](https://github.com/Bree0321/Group-Activity6-Add-and-Fetch-AndroidFirestore)
 
 
 
